@@ -35,11 +35,7 @@ function Navbar() {
         <NavbarOption Icon={BusinessCenterIcon} title="Jobs" />
         <NavbarOption Icon={ChatIcon} title="Messages" />
         <NavbarOption Icon={NotificationsIcon} title="Notifications" />
-        <NavbarOption
-          avatar="../images/me.jpeg"
-          title="Me"
-          onClick={logoutOfApp}
-        />
+        <NavbarOption avatar={true} title="Me" onClick={logoutOfApp} />
       </div>
     </div>
   );
