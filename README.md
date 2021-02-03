@@ -20,7 +20,7 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-This web application uses Redux and Firebase. Login and Signup authentication is also added. It could be improved further 🚧
+This web application uses Redux and Firebase. Login and Signup authentication is also added. More features could also be added 🚧
 
 
 ### Built With
