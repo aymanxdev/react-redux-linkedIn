@@ -43,4 +43,4 @@ Link: [GitHub](https://github.com/aymanxdev/react-redux-linkedin-clone)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ayman-io/
-[product-screenshot]: public/images/Reactjs-linkedin-clone.png
+[product-screenshot]: /images/Reactjs-linkedin-clone.png
