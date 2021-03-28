@@ -4,14 +4,14 @@ const firebaseConfig = {
   apiKey: {
     /*//insert here your API KEY*/
   },
-  authDomain: "linkedin-clone-97bee.firebaseapp.com",
-  projectId: "linkedin-clone-97bee",
-  storageBucket: "linkedin-clone-97bee.appspot.com",
-  messagingSenderId: "781782362043",
+  authDomain: "########################",
+  projectId: "########################",,
+  storageBucket: "########################",,
+  messagingSenderId: "########################",,
   appId: {
     /*Add your app id provided by Firebase*/
   },
-  measurementId: "G-5D0KPLEXLV",
+  measurementId: "########################",,
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
