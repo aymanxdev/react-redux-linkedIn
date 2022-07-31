@@ -1,6 +1,5 @@
 # Basic LinkedIn Clone - React Redux Web Application ✨
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -41,6 +40,5 @@ Link: [GitHub](https://github.com/aymanxdev/react-redux-linkedin-clone)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ayman-io/
+
 [product-screenshot]: /images/Reactjs-linkedin-clone.png
